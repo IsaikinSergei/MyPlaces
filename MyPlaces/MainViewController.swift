@@ -9,7 +9,7 @@ import UIKit
 
 class MainViewController: UITableViewController {
     
-    let restaurantsNames = ["Чиполучо", "Софи И Аннабель", "Кембридж кафе", "PRESTO PIZZA","Farrini","Марракеш","Перчини"]
+    let restaurantsNames = ["Чиполучо", "Софи и Аннабель", "Кембридж кафе", "PRESTO PIZZA","Farrini","Марракеш","Перчини"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
