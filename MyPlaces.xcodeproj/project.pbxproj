@@ -18,6 +18,7 @@
 		EAE8032025BAE6AD0035D479 /* PlaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE8031F25BAE6AD0035D479 /* PlaceModel.swift */; };
 		EAE8032325BEB0E30035D479 /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE8032225BEB0E30035D479 /* NewPlaceViewController.swift */; };
 		EAE8032E25C0059B0035D479 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE8032D25C0059B0035D479 /* StorageManager.swift */; };
+		EAE8033525C173F90035D479 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE8033425C173F90035D479 /* RatingControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		EAE8031F25BAE6AD0035D479 /* PlaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceModel.swift; sourceTree = "<group>"; };
 		EAE8032225BEB0E30035D479 /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 		EAE8032D25C0059B0035D479 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		EAE8033425C173F90035D479 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				EAE8032D25C0059B0035D479 /* StorageManager.swift */,
 				EAE8031F25BAE6AD0035D479 /* PlaceModel.swift */,
 				EAE8031C25BADFBC0035D479 /* CustomTableViewCell.swift */,
+				EAE8033425C173F90035D479 /* RatingControl.swift */,
 				EAE8030925B9689C0035D479 /* Main.storyboard */,
 				EAE8030C25B9689E0035D479 /* Assets.xcassets */,
 				EAE8030E25B9689E0035D479 /* LaunchScreen.storyboard */,
@@ -221,6 +224,7 @@
 				EAE8032325BEB0E30035D479 /* NewPlaceViewController.swift in Sources */,
 				EAE8030425B9689C0035D479 /* AppDelegate.swift in Sources */,
 				EAE8032E25C0059B0035D479 /* StorageManager.swift in Sources */,
+				EAE8033525C173F90035D479 /* RatingControl.swift in Sources */,
 				EAE8032025BAE6AD0035D479 /* PlaceModel.swift in Sources */,
 				EAE8031D25BADFBC0035D479 /* CustomTableViewCell.swift in Sources */,
 				EAE8030625B9689C0035D479 /* SceneDelegate.swift in Sources */,

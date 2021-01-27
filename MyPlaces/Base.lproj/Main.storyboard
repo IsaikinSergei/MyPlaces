@@ -145,6 +145,23 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" rowHeight="140" id="Kon-eh-S3Z">
+                                        <rect key="frame" x="0.0" y="503" width="390" height="140"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Kon-eh-S3Z" id="9bw-Lq-v2i">
+                                            <rect key="frame" x="0.0" y="0.0" width="390" height="140"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <stackView opaque="NO" contentMode="scaleToFill" placeholderIntrinsicWidth="252" placeholderIntrinsicHeight="44" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="GI2-eT-Za2" customClass="RatingControl" customModule="MyPlaces" customModuleProvider="target">
+                                                    <rect key="frame" x="69" y="48" width="252" height="44"/>
+                                                </stackView>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="GI2-eT-Za2" firstAttribute="centerY" secondItem="9bw-Lq-v2i" secondAttribute="centerY" id="6Jj-Pl-VqP"/>
+                                                <constraint firstItem="GI2-eT-Za2" firstAttribute="centerX" secondItem="9bw-Lq-v2i" secondAttribute="centerX" id="bTd-hb-Y6E"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
                                 </cells>
                             </tableViewSection>
                         </sections>
@@ -165,18 +182,20 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <size key="freeformSize" width="390" height="844"/>
                     <connections>
                         <outlet property="placeImage" destination="1sO-Va-lIy" id="65K-8j-hHj"/>
                         <outlet property="placeLocation" destination="7FY-Vd-YwJ" id="3D3-Eg-n2j"/>
                         <outlet property="placeName" destination="N61-jz-oAE" id="0zv-72-Fz3"/>
                         <outlet property="placeType" destination="ax8-CT-7bE" id="BwX-Xa-Tk7"/>
+                        <outlet property="ratingControl" destination="GI2-eT-Za2" id="gep-pS-rwc"/>
                         <outlet property="saveButton" destination="olY-F7-xxc" id="HoY-ee-HGW"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wfT-oK-oyK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="qiQ-sY-TzR" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="1302" y="23"/>
+            <point key="canvasLocation" x="1260" y="22"/>
         </scene>
         <!--My Places-->
         <scene sceneID="Cn7-Cb-DEC">
@@ -332,6 +351,11 @@
             <point key="canvasLocation" x="1302" y="-739"/>
         </scene>
     </scenes>
+    <designables>
+        <designable name="GI2-eT-Za2">
+            <size key="intrinsicContentSize" width="252" height="44"/>
+        </designable>
+    </designables>
     <inferredMetricsTieBreakers>
         <segue reference="b85-Ob-lND"/>
     </inferredMetricsTieBreakers>
