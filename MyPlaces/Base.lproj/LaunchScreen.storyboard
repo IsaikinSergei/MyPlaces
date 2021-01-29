@@ -15,7 +15,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="map" translatesAutoresizingMaskIntoConstraints="NO" id="5lP-Yb-a1C">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="mapLounch" translatesAutoresizingMaskIntoConstraints="NO" id="5lP-Yb-a1C">
                                 <rect key="frame" x="36" y="275" width="342" height="346"/>
                                 <color key="backgroundColor" red="0.25490196078431371" green="0.69803921568627447" blue="0.60784313725490191" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </imageView>
@@ -36,6 +36,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="map" width="170.5" height="170.5"/>
+        <image name="mapLounch" width="170.5" height="170.5"/>
     </resources>
 </document>
