@@ -3,3 +3,7 @@
 
 # Screenshots
 ![](https://github.com/IsaikinSergei/MyPlaces/blob/master/Screenshots/Снимок%20экрана%202021-02-03%20в%2013.23.37.png?raw=true)
+![](https://github.com/IsaikinSergei/MyPlaces/blob/master/Screenshots/Снимок%20экрана%202021-02-03%20в%2013.24.04.png?raw=true)
+![]()
+![]()
+![]()
