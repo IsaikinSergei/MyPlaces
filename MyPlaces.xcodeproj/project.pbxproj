@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		5B9E61145CCBDDA6583E14F7 /* Pods_MyPlaces.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBE5D6A679E728D959D39FD4 /* Pods_MyPlaces.framework */; };
+		EA3A1EC325CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.23.37.png in Resources */ = {isa = PBXBuildFile; fileRef = EA3A1EBD25CAA46B003C3BCD /* Снимок экрана 2021-02-03 в 13.23.37.png */; };
+		EA3A1EC425CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.25.14.png in Resources */ = {isa = PBXBuildFile; fileRef = EA3A1EBE25CAA46B003C3BCD /* Снимок экрана 2021-02-03 в 13.25.14.png */; };
+		EA3A1EC525CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.19.png in Resources */ = {isa = PBXBuildFile; fileRef = EA3A1EBF25CAA46C003C3BCD /* Снимок экрана 2021-02-03 в 13.24.19.png */; };
+		EA3A1EC625CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.25.02.png in Resources */ = {isa = PBXBuildFile; fileRef = EA3A1EC025CAA46C003C3BCD /* Снимок экрана 2021-02-03 в 13.25.02.png */; };
+		EA3A1EC725CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.04.png in Resources */ = {isa = PBXBuildFile; fileRef = EA3A1EC125CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.04.png */; };
+		EA3A1EC825CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.35.png in Resources */ = {isa = PBXBuildFile; fileRef = EA3A1EC225CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.35.png */; };
 		EA69702725C4018A005A8510 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA69702625C4018A005A8510 /* MapViewController.swift */; };
 		EA69702B25C9587A005A8510 /* MapManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA69702A25C9587A005A8510 /* MapManager.swift */; };
 		EAE8030425B9689C0035D479 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE8030325B9689C0035D479 /* AppDelegate.swift */; };
@@ -27,6 +33,12 @@
 		06F6BF08A8FA8F265EE0214A /* Pods-MyPlaces.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyPlaces.debug.xcconfig"; path = "Target Support Files/Pods-MyPlaces/Pods-MyPlaces.debug.xcconfig"; sourceTree = "<group>"; };
 		31A4C5393E8F974A8B9FE35C /* Pods-MyPlaces.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyPlaces.release.xcconfig"; path = "Target Support Files/Pods-MyPlaces/Pods-MyPlaces.release.xcconfig"; sourceTree = "<group>"; };
 		BBE5D6A679E728D959D39FD4 /* Pods_MyPlaces.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyPlaces.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA3A1EBD25CAA46B003C3BCD /* Снимок экрана 2021-02-03 в 13.23.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-02-03 в 13.23.37.png"; sourceTree = "<group>"; };
+		EA3A1EBE25CAA46B003C3BCD /* Снимок экрана 2021-02-03 в 13.25.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-02-03 в 13.25.14.png"; sourceTree = "<group>"; };
+		EA3A1EBF25CAA46C003C3BCD /* Снимок экрана 2021-02-03 в 13.24.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-02-03 в 13.24.19.png"; sourceTree = "<group>"; };
+		EA3A1EC025CAA46C003C3BCD /* Снимок экрана 2021-02-03 в 13.25.02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-02-03 в 13.25.02.png"; sourceTree = "<group>"; };
+		EA3A1EC125CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-02-03 в 13.24.04.png"; sourceTree = "<group>"; };
+		EA3A1EC225CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2021-02-03 в 13.24.35.png"; sourceTree = "<group>"; };
 		EA69702625C4018A005A8510 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		EA69702A25C9587A005A8510 /* MapManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapManager.swift; sourceTree = "<group>"; };
 		EAE8030025B9689C0035D479 /* MyPlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyPlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -71,6 +83,19 @@
 				BBE5D6A679E728D959D39FD4 /* Pods_MyPlaces.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EA3A1EB725CAA271003C3BCD /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				EA3A1EBD25CAA46B003C3BCD /* Снимок экрана 2021-02-03 в 13.23.37.png */,
+				EA3A1EC125CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.04.png */,
+				EA3A1EBF25CAA46C003C3BCD /* Снимок экрана 2021-02-03 в 13.24.19.png */,
+				EA3A1EC225CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.35.png */,
+				EA3A1EC025CAA46C003C3BCD /* Снимок экрана 2021-02-03 в 13.25.02.png */,
+				EA3A1EBE25CAA46B003C3BCD /* Снимок экрана 2021-02-03 в 13.25.14.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 		EA69702D25C96E4B005A8510 /* ViewControllers */ = {
@@ -129,6 +154,7 @@
 				EAE8030125B9689C0035D479 /* Products */,
 				34B0DC22DE26BAE7BCE5B2E6 /* Pods */,
 				BC897DD45CC462E69DDD1A54 /* Frameworks */,
+				EA3A1EB725CAA271003C3BCD /* Screenshots */,
 			);
 			sourceTree = "<group>";
 		};
@@ -212,7 +238,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA3A1EC725CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.04.png in Resources */,
 				EAE8031025B9689E0035D479 /* LaunchScreen.storyboard in Resources */,
+				EA3A1EC825CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.35.png in Resources */,
+				EA3A1EC425CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.25.14.png in Resources */,
+				EA3A1EC525CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.24.19.png in Resources */,
+				EA3A1EC625CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.25.02.png in Resources */,
+				EA3A1EC325CAA46D003C3BCD /* Снимок экрана 2021-02-03 в 13.23.37.png in Resources */,
 				EAE8030D25B9689E0035D479 /* Assets.xcassets in Resources */,
 				EAE8030B25B9689C0035D479 /* Main.storyboard in Resources */,
 			);

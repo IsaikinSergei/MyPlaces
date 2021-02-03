@@ -57,7 +57,7 @@ class MapManager {
             }
         }
     }
-    
+    // CLLocationManager
     // Проверка авторизации приложения для использования сервисов геолокации
     func checkLocationAuthorization(mapView: MKMapView, segueIdentifier: String) {
         switch CLLocationManager.authorizationStatus() {
